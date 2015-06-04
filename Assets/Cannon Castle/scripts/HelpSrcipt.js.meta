@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 53f6bb4daf6e348a1af95cde4741b052
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - castle: {fileID: 100000, guid: 420315a7f657b4ce9a60d76d27e3fe96, type: 2}
+  - launcher: {fileID: 100000, guid: ff75cce00422d4d49b215387a4b6cb16, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

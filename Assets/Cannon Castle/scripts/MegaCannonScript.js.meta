@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf074593b274c4fdaba1b3f5f6ff1422
+timeCreated: 1428515546
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MegaCB: {fileID: 100000, guid: 372a1c21295f6448a9a438629c7f660d, type: 2}
+  - newMegaCB: {fileID: 100000, guid: 372a1c21295f6448a9a438629c7f660d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
